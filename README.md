@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm David! 👋
 
-<!--
-**tsangd15/tsangd15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I am an enthusiastic Computer Science student with experience in:
+- Docker & Docker Deployment 🐳
+- working with domain hosting, port forwarding, running proxy servers to serve content, SSO deployment
+- making applications in Java ☕ and Python 🐍
 
-Here are some ideas to get you started:
+## I am working on:
+- creating a simple video call web app with React, using WebRTC and deploying a Raspberry Pi 🍓 for dedicated use of this app (dissertation project)
+- finding optimal clusters for a K-means algorithm (coursework)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am interested in learning more about:
+- networking 🛜
+- security 🔐
+- app development
+- AI
+
+## Reach me at 📮:
+hi  <<@>>  dtsang  [dot]  net
